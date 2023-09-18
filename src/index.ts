@@ -10,3 +10,5 @@ printMessage(msg);
 
 let total=soma(1,2,3,4);
 printMessage(total.toString());
+
+console.log("alteracao 1");

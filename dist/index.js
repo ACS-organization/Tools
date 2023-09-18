@@ -7,3 +7,4 @@ printMessage(msg);
 //debugger;
 let total = (0, calc_1.soma)(1, 2, 3, 4);
 printMessage(total.toString());
+console.log("alteracao 1");
