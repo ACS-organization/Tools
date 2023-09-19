@@ -11,4 +11,6 @@ printMessage(msg);
 let total=soma(1,2,3,4);
 printMessage(total.toString());
 
-console.log("alteracao 1");
+// console.log("alteracao 1");
+// impressao anterior deu lugar a uma nova de acordo com revisor
+console.log("alteracao 1 alterada após revisão");
